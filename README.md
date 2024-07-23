@@ -1,10 +1,11 @@
 # Simple_ProductList
 SimpleReact Product List ;
 #  Create Simple Store Page with  React App 
-  importing Bootstrap 
-  Fetcheing products Data from an  APi : 
-   fetch('https://fakestoreapi.com/products')
+  1.importing Bootstrap.   
+  2.Fetcheing products Data from an  APi :
+
+    fetch('https://fakestoreapi.com/products')
             .then(res=>res.json())
             .then(json=>console.log(json))
- Filtring by id , title, description
- Serching by all categories 
+  3.Filtring by id , title, description.
+  4.Serching by all categories. 
