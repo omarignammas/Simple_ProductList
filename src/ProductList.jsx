@@ -27,7 +27,7 @@ export default function ProductList(){
           <h1>Liste des produits :</h1>
           <table className="table">
     <thead>
-        <tr>
+        <tr className="text-center">
             <th>#ID</th>
             <th>Title</th>
             <th>Price</th>
