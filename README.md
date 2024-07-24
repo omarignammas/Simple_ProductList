@@ -1,6 +1,6 @@
 # Simple_ProductList
 SimpleReact Product List 
-#  Create Simple Store Page with React using css Framework :  
+#  Create Simple products Page with React using css Framework :  
 **What We Do :**
 
       1.importing Bootstrap.   
