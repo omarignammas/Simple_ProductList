@@ -3,7 +3,7 @@ SimpleReact Product List
 #  Create Simple products Page with React using css Framework :  
 **What We Do :**
 
-      1.importing Bootstrap.   
+      1.importing Bootstrap css framework.   
       
       2.Fetcheing products Data from an  APi :
 
@@ -11,7 +11,7 @@ SimpleReact Product List
             .then(res=>res.json())
             .then(json=>console.log(json))
             
-      3.Filtring by id , title, description.
+      3.Filtring by id , title, description --> custmizing the bar search.
             
       4.Serching by all categories. 
       
