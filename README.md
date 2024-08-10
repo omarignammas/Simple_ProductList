@@ -11,7 +11,7 @@ SimpleReact Product List
             .then(res=>res.json())
             .then(json=>console.log(json))
             
-      3.Filtring by id , title, description --> custmizing the bar search.
+      3.Filtring by id , title, description --> custmizing the bar search. 
             
       4.Serching by all categories. 
       
